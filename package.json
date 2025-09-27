@@ -1,0 +1,19 @@
+{
+  "name": "projectmanagement",
+  "version": "1.0.0",
+  "description": "A project management application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "backend",
+    "api"
+  ],
+  "author": "Zeeshan Altaf",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
+}
